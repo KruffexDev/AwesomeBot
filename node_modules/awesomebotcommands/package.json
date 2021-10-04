@@ -1,0 +1,8 @@
+{
+  "name": "awesomebotcommands",
+  "version": "1.0.3",
+  "description": "Commands for Awesome Bot",
+  "main": "index.js",
+  "author": "krugexdev",
+  "license": "ISC"
+}

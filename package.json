@@ -1,0 +1,38 @@
+{
+  "name": "swearbot",
+  "version": "1.0.0",
+  "description": "A bot that searching definitions for all swearing words on all languages for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KruffexDev/SwearBot.git"
+  },
+  "keywords": [
+    "Swearing",
+    "bot",
+    "Discord"
+  ],
+  "author": "KrugexDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KruffexDev/SwearBot/issues"
+  },
+  "homepage": "https://github.com/KruffexDev/SwearBot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "awesomebotcommands": "^1.0.3",
+    "awesomebotmusical": "^1.0.1",
+    "axios": "^0.22.0",
+    "discord-api-types": "^0.23.1",
+    "discord-player": "^5.1.0",
+    "discord-youtube-api": "^0.1.0",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.4.0"
+  }
+}
