@@ -23,7 +23,6 @@
   "homepage": "https://github.com/KruffexDev/SwearBot#readme",
   "dependencies": {
     "@discordjs/builders": "^0.6.0",
-    "@discordjs/opus": "^0.5.3",
     "@discordjs/rest": "^0.1.0-canary.0",
     "awesomebotcommands": "^1.0.3",
     "axios": "^0.22.0",
